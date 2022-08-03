@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupusers": [
+    {
+      "fullname": "praveen",
+      "mobilenumber": 95715446451,
+      "dateofbirth": "2022-08-19",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
